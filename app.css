@@ -558,6 +558,7 @@ p {
   }
   .piccontainer img {
     width: 100%;
+    max-height: fit-content;
     height: auto;
     margin: 0;
     border-radius: 0;
