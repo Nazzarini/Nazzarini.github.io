@@ -3,7 +3,7 @@ html {
 }
 body {
   margin: 0;
-  background: url("photos/back.jpg");
+  background: url("assets/back.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Bodoni Moda', serif;
@@ -50,13 +50,13 @@ header {
   box-shadow: 0px 15px 40px -10px black;
 }
 .homeheader{
-  background: linear-gradient(rgba(2, 141, 255, 0),rgba(215, 190, 255, 0.507)), url("photos/prettycouple.jpg");
+  background: linear-gradient(rgba(2, 141, 255, 0),rgba(215, 190, 255, 0.507)), url("assets/prettycouple.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
 }
 .aboutheader{
-  background: linear-gradient(rgba(2, 141, 255, 0),rgba(215, 190, 255, 0.507)), url("photos/about.jpg");
+  background: linear-gradient(rgba(2, 141, 255, 0),rgba(215, 190, 255, 0.507)), url("assets/about.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
@@ -247,7 +247,7 @@ p {
 }
 
 #packagesheader{
-  background: url("photos/pack1.jpg"), url("photos/pack2.jpg"), url("photos/pack3.jpg");
+  background: url("assets/pack1.jpg"), url("assets/pack2.jpg"), url("assets/pack3.jpg");
   background-repeat: no-repeat;
   background-position: left,center,right;
   background-size: 33.33333333% 100%, 33.333333% 100%, 33.333333% 100%;
