@@ -558,9 +558,9 @@ p {
   }
   .piccontainer img {
     width: 100%;
+    height: auto;
     margin: 0;
     border-radius: 0;
-    object-fit: scale-down;
   }
 
 }
