@@ -553,9 +553,13 @@ p {
     display: none;
   }
 
+  .piccontainer{
+    width: 100%;
+  }
   .piccontainer img {
-    max-height: 300px;
-    max-width: 300px;
+    width: 100%;
+    margin: 0;
+    border-radius: 0;;
   }
 
 }
