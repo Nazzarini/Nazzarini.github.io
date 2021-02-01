@@ -303,12 +303,68 @@ p {
   align-items: center;
 }
 .packagecontent{
-  width: 85%;
+  width: 80%;
   height: 85%;
 }
 
+#contactheader{
+  background: linear-gradient(rgba(2, 141, 255, 0),rgba(215, 190, 255, 0.507)), url("assets/contact.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
 
-@media screen and (max-width: 1710px){
+label{
+  font-size: 3rem;
+}
+form{
+  display: flex;
+  flex-direction: column;
+}
+input{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  width: 35%;
+  border-radius: 1rem;
+  height: 5rem;
+  border: none;
+  box-sizing: border-box;
+}
+input:focus {
+  outline: none;
+  border: 1px solid rgb(255, 212, 157);
+  box-shadow: 0 0 5px -1px white;
+}
+
+.formcontainer{
+  display: flex;
+  flex: 1 1;
+  justify-content: space-evenly;
+  margin-top: 3rem;
+}
+.formbox{
+  width: 40%;
+  background: linear-gradient(rgba(125, 107, 140, 0.7), rgba(0,0,0,0));
+  padding: 3rem;
+  text-align: justify;
+}
+form button{
+  margin-top: 5rem;
+  height: 5rem;
+  width: 225px;
+  border: none;
+}
+textarea{
+  margin-top: 2rem;
+  outline: none;
+}
+textarea:focus{
+  border: 1px solid rgb(255, 212, 157);
+  box-shadow: 0 0 5px -1px white;
+}
+
+
+@media screen and (max-width: 1727px){
   .homeheader{
     width: 100%;
   }
@@ -388,7 +444,7 @@ p {
   }
 }
 
-@media screen and (max-width: 1380px){
+@media screen and (max-width: 1385px){
   nav{
     flex-wrap: wrap;
     align-items: center;
@@ -563,6 +619,35 @@ p {
     margin: 0;
     border-radius: 0;
   }
+  #contactheader{
+    width: 100%;
+  }
 
+  .formcontainer{
+    flex-direction: column;
+    align-items: center;
+  }
+  .formbox p{
+   font-size: 2rem;
+  }
+  .formbox{
+    margin-bottom: 2rem;
+    width: 100%;
+    padding: 4rem;
+    box-sizing: border-box;
+  }
+  textarea{
+    width:100%;
+  }
+  form{
+    align-items: center;
+  }
+  input{
+    width: 70%;
+  }
+  i{
+    font-size: 3rem;
+    margin-bottom: 3rem;
+  }
 }
 
