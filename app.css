@@ -537,7 +537,7 @@ textarea:focus{
   }
   footer{
     flex-direction: column;
-    height: 25rem
+    height: 35rem
   }
   #promo{
     height: 25rem;
@@ -648,6 +648,9 @@ textarea:focus{
   i{
     font-size: 3rem;
     margin-bottom: 3rem;
+  }
+  form button {
+    font-size: 3rem;
   }
 }
 
