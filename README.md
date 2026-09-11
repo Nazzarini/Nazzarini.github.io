@@ -5,6 +5,8 @@ As I progress through my MSDS (Master's in Data Science) at UT, I started this b
 
 ### Machine Learning
 
+[Geometric Interpretation of Multivariate Linear Regression](Geometric-Interpretation-of-Multivariate-Linear-Regression.md)
+
 ## About
 
 [LinkedIn](https://www.linkedin.com/in/aaron-nazrini/)
