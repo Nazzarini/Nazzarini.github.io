@@ -4,9 +4,9 @@ As I progress through my MSDS (Master's in Data Science) at UT, I started this b
 ---
 ## Posts
 
-### Machine Learning
-
 [Geometric Interpretation of Multivariate Linear Regression](Geometric-Interpretation-of-Multivariate-Linear-Regression.md)
+
+Gradient Descent - expected Sept 18th
 
 ## About
 
