@@ -1,4 +1,3 @@
-![Header](/images/post2/header.jpg)
 # Gradient Descent
 
 This week's post addresses a question I had when learning gradient descent.  Therefore, I'm sure others have had the same question :) Machine learning is the context within which I will be talking about the gradient.
