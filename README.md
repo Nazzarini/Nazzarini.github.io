@@ -6,7 +6,9 @@ As I progress through my MSDS (Master's in Data Science) at UT, I started this b
 
 [Geometric Interpretation of Multivariate Linear Regression](Geometric-Interpretation-of-Multivariate-Linear-Regression.md)
 
-> *Gradient Descent - expected Sept 18th*
+[Gradient Descent](gradient-descent.md)
+
+> *Next Post TBD - expected Sept 25th*
 
 ## About
 
