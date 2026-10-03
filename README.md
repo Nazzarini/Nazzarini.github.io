@@ -10,6 +10,8 @@ As I progress through my MSDS (Master's in Data Science) at UT, I started this b
 
 [Eigen Stuff & PCA](eigen.md)
 
+[TEST](test.html)
+
 > *Next Post TBD - expected Oct 9th*
 
 ## About
