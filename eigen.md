@@ -25,7 +25,7 @@ The Claude artifact I linked helps to visualize the associated eigenvectors and 
 1. Using the characteristic equation det(A- λI) = 0 we find the eigenvalues (λ)
 2. Plug each λ back into (A-λI)x = 0. This solution gives you the eigenvector
 3. Normalize each eigenvector to have a length of 1
-[eigen decomp]
+![eigen decomp](images/post3/eigen.jpeg)
 
 ## Principal Component Analysis (PCA)
 So, a very important thing that I have not mentioned is that this eigen analysis relies on the matrix A being square. However, in ML, there is often a pesky rectangular matrix X of dimension mxn. Luckily, XᵀX (the transpose of X times X) is symmetric. By first subtracting the mean of each column from X then dividing XᵀX by (m-1), we get the covariance matrix. The eigenvectors of this covariance matrix give us the principal components of X. In other words, this gives us the directions of maximum variability. This allows us to represent high dimensional data in fewer dimensions, which can reduce redundant information and allow us to visualize data in meaningful and interpretable ways.
