@@ -8,7 +8,9 @@ As I progress through my MSDS (Master's in Data Science) at UT, I started this b
 
 [Gradient Descent](gradient-descent.md)
 
-> *Next Post TBD - expected Sept 25th*
+[Eigen Stuff & PCA](eigen.md)
+
+> *Next Post TBD - expected Oct 9th*
 
 ## About
 
