@@ -12,7 +12,9 @@ As I progress through my MSDS (Master's in Data Science) at UT, I started this b
 
 [PAC Learning](pac.md)
 
-> *Next Post TBD - expected Oct 16th*
+[What's a Neural Network](NeuralNets.md)
+
+> *Next Post TBD*
 
 ## About
 
